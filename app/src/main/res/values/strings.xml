@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab1_Master</string>
+
+    <string-array name="groups">
+        <item>gr-1</item>
+        <item>gr-2</item>
+        <item>gr-3</item>
+        <item>gr-4</item>
+    </string-array>
+    <string-array name="faculty">
+        <item>Bread</item>
+        <item>Cupcacke</item>
+        <item>Shit</item>
+        <item>Fais</item>
+    </string-array>
+    <string-array name="course">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
